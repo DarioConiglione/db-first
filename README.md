@@ -18,3 +18,4 @@ nuova: BOOLEAN - NULL
 posti: TINYINT - NULL
 porte: TINYINT - NULL
 descrizione: TEXT - NULL
+prezzo: DECIMAL(6,2) - NOT NULL
